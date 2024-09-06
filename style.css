@@ -1,14 +1,12 @@
 body {
     background-color: lightgoldenrodyellow;
     margin-bottom: 20px;
+    text-align:center;
+    list-style-position: inside;
   }
   
   h1 {
     color: navy;
-    text-align:center;
-  }
-  p {
-    text-align:center;
   }
 
   .grid-container {
@@ -22,10 +20,6 @@ body {
     font-size: 20px;
     text-align: center;
   }
-  
-.list {
-  text-align:left;
-}
 
 .a1, .a2, .a3, .a4, .a5, .a6, .a7, .a8, .a9 {
   padding: 10px;
